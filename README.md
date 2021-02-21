@@ -1,2 +1,3 @@
 # Talking-Dictionary
-This is a Talking Dictionary made using Python
+This is a GUI based Talking Dictionary made using Python.
+
